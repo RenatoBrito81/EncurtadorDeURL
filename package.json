@@ -1,0 +1,20 @@
+{
+  "name": "encurtadordeurl",
+  "version": "1.0.0",
+  "description": "API para encurta's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Brito",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.4.1",
+    "@typescript-eslint/parser": "^4.4.1",
+    "cors": "^2.8.5",
+    "eslint": "^7.11.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5",
+    "typescript": "^4.0.3"
+  }
+}
